@@ -1,0 +1,87 @@
+.f1{
+    font-size: 20px;
+    color:#fff ;    
+    margin-left: 100px;
+}
+
+.fut{
+    font-size: 20px;
+    color: #fff;
+    margin-left: 100px;
+
+}
+
+.esporte{
+    font-size: 20px;
+    color: #fff;
+    margin-left: 100px;
+}
+
+html{
+    background-color: black;
+}
+
+h1{
+    color: #fff;
+    text-align: center;
+}
+
+h3{
+    color:#fff;
+    margin-left: 30px;
+}
+
+hr{
+    padding: 1px;
+    background-color: gold;
+}
+
+a:hover{
+    color: #fff;
+}
+
+.menu li{
+    display: inline-block;
+    list-style: none;
+    justify-content: space-between;
+}
+
+.menu li a{
+    margin: 10px;
+    text-decoration: none;
+}
+
+
+
+.menu{
+    text-align: right;
+    margin-right: 200px;
+}
+
+.rodape{
+    color: black;
+    text-align: center;
+    width: 100%;
+    height: 90px;
+    background-color: #fff;
+    text-align: center;
+    line-height: 50px;
+    margin-top:400px;
+}
+
+p{
+    color: #fff;
+    font-size: 20px;
+    text-align: center;
+}
+
+.m5{
+    text-align: right;
+    margin-right: 200px;
+}
+
+li{
+    color: #fff;
+    list-style: none;
+    text-align: right;
+}
